@@ -1,0 +1,73 @@
+body {
+  font-family: helvetica, sans-serif;
+}
+
+div {
+  background-color: #d3d3d3;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 1% 1% 0 0;
+}
+
+.top {
+  text-align: center;
+}
+
+.h1-top {
+  padding-top: 5%;
+  font-size: 3rem;
+}
+
+.profile {
+  border-style: solid;
+  border-radius: 1% 1%;
+  border-width: 0.05px;
+  width: 80%;
+  padding: 1%;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 1.5%;
+}
+
+.middle {
+  border-style: solid;
+  border-width: 0.05px;
+  text-align: center;
+}
+
+.profile-img {
+  margin-top: 4%;
+  margin-bottom: auto;
+  margin-top: 0;
+  border-radius: 50%;
+  padding-top: 5%;
+}
+
+.img-info {
+  background-color: #aaaaaa
+}
+
+.bottom-wikipedia {
+  text-align: center;
+}
+
+.list {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: left;
+  border-radius: 0 0 1% 1%;
+}
+
+.dates {
+  margin-left: 10%;
+  padding-right: 5%;
+}
+
+.dates-heading {
+  margin-left: 10%;
+}
+
+footer {
+  padding-top: 5%;
+}
